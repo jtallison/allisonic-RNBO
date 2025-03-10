@@ -8,24 +8,46 @@ Default:
 c74rpi.local
 c74rnbo
 
+---
+
+*Check*
 Pi 5 in Pi Case
 allisonic-5.local
 s0n1c
 
-allisonic-rnbo-4.local
+---
+
+Pi5 fan open (usb audio)
+allisonic-4.local
 s0n1c
+wifi: rnbo rainbows
+
+---
 
 Pi5 in Pisound Case (Clear top)
 allisonic-3.local
 s0n1c
+wifi: rnbo rainbows
+
+---
 
 Pi5 HiFiBerry DAC 8x
-allisonic-rnbo.local
+allisonic-2.local
 c74rnbo
+wifi: rnbo rainbows
 
+---
+
+*Check*
 Pi4b Pisound (blue top)
 allisonic-rnbo-2.local
 s0n1c
+wifi: rnbo rainbows
+
+
+Pi 4B Open
+?? allisonic-1.local
+
 
 
 oops

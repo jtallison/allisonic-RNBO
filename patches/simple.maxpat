@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ -1253.0, 87.0, 728.0, 524.0 ],
+		"rect" : [ 134.0, 172.0, 728.0, 524.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
 				"box" : 				{
@@ -326,7 +326,7 @@
 						}
 ,
 						"classnamespace" : "rnbo",
-						"rect" : [ -865.0, 142.0, 841.0, 725.0 ],
+						"rect" : [ 134.0, 172.0, 841.0, 725.0 ],
 						"default_fontname" : "Lato",
 						"gridsize" : [ 15.0, 15.0 ],
 						"title" : "untitled",
@@ -3804,7 +3804,19 @@
 
 							}
  ],
-						"originid" : "pat-196"
+						"originid" : "pat-232",
+						"export_config" : 						{
+							"vst-au-export" : 							{
+								"vst-au-export-ins" : 								{
+									"plugin_manufacturer_name" : "Allisonic",
+									"plugin_manufacturer_code" : "Alls",
+									"plugin_name" : "Simple-shot"
+								}
+
+							}
+
+						}
+
 					}
 ,
 					"patching_rect" : [ 20.0, 247.0, 42.0, 22.0 ],
@@ -4069,7 +4081,7 @@
 
 			}
  ],
-		"originid" : "pat-194",
+		"originid" : "pat-230",
 		"parameters" : 		{
 			"obj-1" : [ "rnbo~", "rnbo~", 0 ],
 			"obj-5" : [ "live.gain~", "live.gain~", 0 ],
